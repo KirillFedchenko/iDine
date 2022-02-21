@@ -15,6 +15,7 @@
 		DD1EF00427C38DBF00BDA9C1 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = DD1EF00027C38DBF00BDA9C1 /* menu.json */; };
 		DD1EF00527C38DBF00BDA9C1 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1EF00127C38DBF00BDA9C1 /* Menu.swift */; };
 		DD1EF00627C38DBF00BDA9C1 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1EF00227C38DBF00BDA9C1 /* Order.swift */; };
+		DD1EF00827C41D6D00BDA9C1 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1EF00727C41D6D00BDA9C1 /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		DD1EF00027C38DBF00BDA9C1 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		DD1EF00127C38DBF00BDA9C1 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		DD1EF00227C38DBF00BDA9C1 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		DD1EF00727C41D6D00BDA9C1 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				DD1EF00127C38DBF00BDA9C1 /* Menu.swift */,
 				DD1EF00227C38DBF00BDA9C1 /* Order.swift */,
 				DD06767127C3843900FED81A /* ContentView.swift */,
+				DD1EF00727C41D6D00BDA9C1 /* ItemRow.swift */,
 				DD06767327C3843B00FED81A /* Assets.xcassets */,
 				DD06767527C3843B00FED81A /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 				DD06767227C3843900FED81A /* ContentView.swift in Sources */,
 				DD06767027C3843900FED81A /* iDineApp.swift in Sources */,
 				DD1EF00627C38DBF00BDA9C1 /* Order.swift in Sources */,
+				DD1EF00827C41D6D00BDA9C1 /* ItemRow.swift in Sources */,
 				DD1EF00527C38DBF00BDA9C1 /* Menu.swift in Sources */,
 				DD1EF00327C38DBF00BDA9C1 /* Helper.swift in Sources */,
 			);
